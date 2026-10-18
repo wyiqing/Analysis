@@ -1,0 +1,16 @@
+1 1 1
+acidipiscis	11	12
+agilis	39	40
+animalis	17	17
+apodemi	3	3
+aviarius	31	31
+ceti	2	3
+equi	3	3
+hayakitensis	2	2
+murinus	67	67
+pobuzihii	5	7
+ruminis	66	66
+saerimneri	10	11
+salitolerans	1	1
+sp.	13	13
+total	270	276
