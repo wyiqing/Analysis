@@ -1,0 +1,16 @@
+species	positive	total	prev_pct	ci_low_pct	ci_high_pct
+acidipiscis	11	12	91.7	62.5	100.0
+agilis	39	40	97.5	86.0	100.0
+animalis	17	17	100.0	78.4	100.0
+apodemi	3	3	100.0	38.3	100.0
+aviarius	31	31	100.0	86.9	100.0
+ceti	2	3	66.7	20.2	94.4
+equi	3	3	100.0	38.3	100.0
+hayakitensis	2	2	100.0	29.0	100.0
+murinus	67	67	100.0	93.5	100.0
+pobuzihii	5	7	71.4	35.2	92.4
+ruminis	66	66	100.0	93.4	100.0
+saerimneri	10	11	90.9	60.1	100.0
+salitolerans	1	1	100.0	16.7	100.0
+sp.	13	13	100.0	73.4	100.0
+total	270	276	97.8	95.2	99.1

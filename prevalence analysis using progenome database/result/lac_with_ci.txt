@@ -1,0 +1,16 @@
+species	positive	total	prev_pct	ci_low_pct	ci_high_pct
+acetotolerans	8	8	100.0	62.8	100.0
+amylovorus	65	67	97.0	89.1	99.8
+apis	7	7	100.0	59.6	100.0
+crispatus	420	427	98.4	96.6	99.3
+hamsteri	3	3	100.0	38.3	100.0
+helveticus	205	213	96.2	92.6	98.2
+huangpiensis	2	2	100.0	29.0	100.0
+intestinalis	12	12	100.0	71.8	100.0
+johnsonii	90	95	94.7	88.0	98.0
+kefiranofaciens	16	16	100.0	77.3	100.0
+melliventris	5	5	100.0	51.1	100.0
+panisapium	3	3	100.0	38.3	100.0
+pasteurii	3	3	100.0	38.3	100.0
+rodentium	3	3	100.0	38.3	100.0
+taotal	842	864	97.5	96.2	98.3
