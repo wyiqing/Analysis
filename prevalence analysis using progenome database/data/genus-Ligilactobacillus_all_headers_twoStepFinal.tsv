@@ -1,0 +1,576 @@
+>PKGI01000001.1 Ligilactobacillus agilis strain 268A contig1, whole genome shotgun sequence
+>CP000233.1 Lactobacillus salivarius UCC118, complete genome
+>AF488831.1 Lactobacillus salivarius UCC118 plasmid pSF118-20, complete sequence
+>PCZA01000100.1 Lactobacillus sp. UMNPBX9 NODE_100_length_668_cov_284.328, whole genome shotgun sequence
+>PCZH01000100.1 Lactobacillus sp. UMNPBX2 NODE_100_length_663_cov_1.03783, whole genome shotgun sequence
+>JBGFSO010000001.1 Lactobacillus sp. AN1001 contig_29, whole genome shotgun sequence
+>PKGM01000001.1 Ligilactobacillus agilis strain 273 contig1, whole genome shotgun sequence
+>SJOY01000001.1 Ligilactobacillus agilis strain SW282 1, whole genome shotgun sequence
+>CP049764.1 Ligilactobacillus agilis strain L3 chromosome
+>JAMGEC010000001.1 Ligilactobacillus agilis strain C7 contig1, whole genome shotgun sequence
+>CP104396.1 Ligilactobacillus agilis strain AM_LB6 chromosome, complete genome
+>JAQDEX010000001.1 Ligilactobacillus acidipiscis strain AF91-04IFCA AF91-04IFCA.Scaf1, whole genome shotgun sequence
+>JAQESA010000001.1 Ligilactobacillus acidipiscis strain AM96-05M2BTA AM96-05M2BTA.Scaf1, whole genome shotgun sequence
+>JAQERZ010000001.1 Ligilactobacillus acidipiscis strain AM96-03DM3TA AM96-03DM3TA.Scaf1, whole genome shotgun sequence
+>CP113926.1 Ligilactobacillus acidipiscis strain ESL0726 chromosome, complete genome
+>BACS01000487.1 Ligilactobacillus acidipiscis KCTC 13900 DNA, contig: contig00487, whole genome shotgun sequence
+>LN851162.1 Lactobacillus agilis genome assembly Lactobacillus agilis, scaffold scaffold00001, whole genome shotgun sequence
+>AZFI01000001.1 Ligilactobacillus acidipiscis DSM 15836 Scaffold1, whole genome shotgun sequence
+>JQBK01000001.1 Ligilactobacillus acidipiscis strain DSM 15353 Scaffold1, whole genome shotgun sequence
+>BDQH01000001.1 Ligilactobacillus acidipiscis DNA, strain: JCM 10692, scaffold: sequence001, whole genome shotgun sequence
+>LYQP01000001.1 Ligilactobacillus agilis strain UMNLA7 agilis8I4S3LR1contig1, whole genome shotgun sequence
+>LYQO01000001.1 Ligilactobacillus agilis strain UMNLA6 agilis8I2S2LR1contig1, whole genome shotgun sequence
+>LYQQ01000001.1 Ligilactobacillus agilis strain UMNLA8 agilis8I7S4LR1contig1, whole genome shotgun sequence
+>LUGO01000001.1 Ligilactobacillus agilis strain UMNLA1 Lagilis10B1S5LR1contig1, whole genome shotgun sequence
+>LUGD01000001.1 Ligilactobacillus agilis strain UMNLA4 contig1, whole genome shotgun sequence
+>LUGQ01000001.1 Ligilactobacillus agilis strain UMNLA3 Lagilis08E9S1LR1contig1, whole genome shotgun sequence
+>LUGP01000001.1 Ligilactobacillus agilis strain UMNLA2 Lagilis10C3S6LR1contig1, whole genome shotgun sequence
+>LUGE01000001.1 Ligilactobacillus agilis strain UMNLA5 contig1, whole genome shotgun sequence
+>CP016766.1 Ligilactobacillus agilis strain La3, complete genome
+>CP034226.1 Ligilactobacillus agilis strain La3 plasmid pLa3_1, complete sequence
+>AZFH01000007.1 Ligilactobacillus equi DSM 15833 = JCM 10991 strain DSM 15833 NODE_10, whole genome shotgun sequence
+>BLAM01000001.1 Ligilactobacillus agilis SY212 DNA, sequence001, whole genome shotgun sequence
+>BLAN01000001.1 Ligilactobacillus agilis SY111 DNA, sequence001, whole genome shotgun sequence
+>BLAO01000001.1 Ligilactobacillus agilis SN10121 DNA, sequence01, whole genome shotgun sequence
+>BLAP01000001.1 Ligilactobacillus agilis SN811 DNA, sequence01, whole genome shotgun sequence
+>BLAQ01000001.1 Ligilactobacillus agilis SN4111 DNA, sequence001, whole genome shotgun sequence
+>BLAR01000001.1 Ligilactobacillus agilis NB11 DNA, sequence01, whole genome shotgun sequence
+>BLAS01000001.1 Ligilactobacillus agilis PTL465 DNA, sequence01, whole genome shotgun sequence
+>JABAFP010000001.1 Ligilactobacillus agilis strain WCA-389-WT-5H1 Contig_1, whole genome shotgun sequence
+>AYYP01000002.1 Ligilactobacillus agilis DSM 20509 NODE_10, whole genome shotgun sequence
+>AYZA01000006.1 Ligilactobacillus aviarius subsp. aviarius DSM 20655 NODE_10, whole genome shotgun sequence
+>JADBIF010000010.1 Ligilactobacillus agilis strain YZ054 NODE_10_length_72813_cov_78.4563, whole genome shotgun sequence
+>JQBZ01000015.1 Ligilactobacillus ceti DSM 22408 NODE_102, whole genome shotgun sequence
+>LVKG01000001.1 Ligilactobacillus aviarius strain UMNLAv5 contig_10_179_00, whole genome shotgun sequence
+>LVKJ01000001.1 Ligilactobacillus aviarius strain UMNLAv9 contig_10_223_57, whole genome shotgun sequence
+>JAEHNV010000064.1 Ligilactobacillus agilis strain T8a NODE_100_length_225_cov_33.697777, whole genome shotgun sequence
+>LVKD01000001.1 Ligilactobacillus aviarius strain UMNLAv2 contig_102_6_66, whole genome shotgun sequence
+>JACJJZ010000010.1 Ligilactobacillus agilis strain An795 An795_NODE_10_length_90121_cov_98.707_ID_8788, whole genome shotgun sequence
+>LVKC01000001.1 Ligilactobacillus aviarius strain UMNLAv1 contig_10_174_92, whole genome shotgun sequence
+>JACJJY010000010.1 Ligilactobacillus agilis strain An796 An796_NODE_10_length_68913_cov_97.0691, whole genome shotgun sequence
+>LVKE01000001.1 Ligilactobacillus aviarius strain UMNLAv3 contig_100_16_64, whole genome shotgun sequence
+>LVKF01000001.1 Ligilactobacillus aviarius strain UMNLAv4 contig_10_186_12, whole genome shotgun sequence
+>LVKH01000001.1 Ligilactobacillus aviarius strain UMNLAv7 contig_10_175_65, whole genome shotgun sequence
+>LVKI01000001.1 Ligilactobacillus aviarius strain UMNLAv8 contig_10_173_80, whole genome shotgun sequence
+>LWUC01000001.1 Ligilactobacillus aviarius strain UMNLAv10 contig_10_197_74, whole genome shotgun sequence
+>LWUD01000001.1 Ligilactobacillus aviarius strain UMNLAv11 contig_10_175_82, whole genome shotgun sequence
+>LWUE01000001.1 Ligilactobacillus aviarius strain UMNLAv12 contig_104_95_12, whole genome shotgun sequence
+>JBHUGU010000001.1 Ligilactobacillus acidipiscis strain CCM 7598 contig_1, whole genome shotgun sequence
+>CP173417.1 Ligilactobacillus acidipiscis strain YHS1A chromosome, complete genome
+>LT630287.1 Lactobacillus acidipiscis strain ACA-DC 1533 genome assembly, chromosome: I
+>GL573153.1 Lactobacillus animalis KCTC 3501 genomic scaffold scaffold00001, whole genome shotgun sequence
+>KE383993.1 Lactobacillus ceti DSM 22408 genomic scaffold G540DRAFT_scaffold00001.1, whole genome shotgun sequence
+>AUHP01000012.1 Ligilactobacillus ceti DSM 22408 G540DRAFT_scaffold00002.2_C, whole genome shotgun sequence
+>AWWH01000001.1 Ligilactobacillus equi DPC 6820 NODE_100, whole genome shotgun sequence
+>BAML01000082.1 Ligilactobacillus hayakitensis DSM 18933 = JCM 14209 DNA, contig: JCM14209.contig00082, whole genome shotgun sequence
+>BAMM01000063.1 Ligilactobacillus apodemi DSM 16634 = JCM 16172 DNA, contig: JCM16172.contig00063, whole genome shotgun sequence
+>LWUF01000001.1 Ligilactobacillus aviarius strain UMNLAv13 contig_10_243_04, whole genome shotgun sequence
+>LWUG01000001.1 Ligilactobacillus aviarius strain UMNLAv14 contig_10_151_09, whole genome shotgun sequence
+>MCNR01000001.1 Ligilactobacillus animalis strain P38 Contig_001, whole genome shotgun sequence
+>MPSN01000001.1 Ligilactobacillus murinus strain EF-1 WT_MP_R1_trim_repaired_(paired)_contig_1, whole genome shotgun sequence
+>BDFM01000001.1 Ligilactobacillus murinus DNA, contig: contig_1, strain: KM-1, whole genome shotgun sequence
+>PCZO01000009.1 Ligilactobacillus aviarius strain UMNLAv98 SNF2W6B3L3S15110_345_24, whole genome shotgun sequence
+>PCZP01000009.1 Ligilactobacillus aviarius strain UMNLAv97 SNF2W6B3L1S14110_144_63, whole genome shotgun sequence
+>VKBY01000001.1 Ligilactobacillus murinus strain VM1F3 NODE_1, whole genome shotgun sequence
+>JMHU01000001.1 Ligilactobacillus animalis strain 381-IL-28 NODE_1_length_157441_cov_30.456526, whole genome shotgun sequence
+>VKBX01000001.1 Ligilactobacillus murinus strain VM1V1 NODE_1, whole genome shotgun sequence
+>PCZQ01000010.1 Ligilactobacillus aviarius strain UMNLAv76 SNF2W3B1M8S27110_222_67, whole genome shotgun sequence
+>VKCC01000001.1 Ligilactobacillus murinus strain SM2V1 NODE_1, whole genome shotgun sequence
+>VKCD01000001.1 Ligilactobacillus murinus strain SM2F2 NODE_1, whole genome shotgun sequence
+>VKCF01000001.1 Ligilactobacillus murinus strain SM1F1 NODE_1, whole genome shotgun sequence
+>VKCG01000001.1 Ligilactobacillus murinus strain 3V2P2 NODE_1, whole genome shotgun sequence
+>VKCE01000001.1 Ligilactobacillus murinus strain SM1F2 NODE_1, whole genome shotgun sequence
+>POVP01000001.1 Ligilactobacillus animalis strain NP51 NP51_contig000001, whole genome shotgun sequence
+>VKCH01000001.1 Ligilactobacillus murinus strain 3V1P2 NODE_1, whole genome shotgun sequence
+>CP023565.1 Ligilactobacillus murinus strain CR147 chromosome, complete genome
+>AZFT01000001.1 Ligilactobacillus apodemi DSM 16634 = JCM 16172 strain DSM 16634 NODE_1, whole genome shotgun sequence
+>QWMU01000104.1 Ligilactobacillus murinus strain 510-9 Scaffold100_1, whole genome shotgun sequence
+>QZFR01000102.1 Ligilactobacillus murinus strain C-30 Scaffold100_1, whole genome shotgun sequence
+>VKCI01000001.1 Ligilactobacillus murinus strain 3V1P1 NODE_1, whole genome shotgun sequence
+>SPPN01000100.1 Ligilactobacillus murinus strain HT12 NODE_100_length_1523_cov_22.0251, whole genome shotgun sequence
+>VKCJ01000001.1 Ligilactobacillus murinus strain 3S2P1 NODE_1, whole genome shotgun sequence
+>SRYK01000100.1 Ligilactobacillus murinus strain NM26_J9 NODE_100_length_5034_cov_908.787, whole genome shotgun sequence
+>SRYL01000100.1 Ligilactobacillus murinus strain NM28_3M-8 NODE_100_length_2283_cov_1324.11, whole genome shotgun sequence
+>VKCK01000001.1 Ligilactobacillus murinus strain 2V1P2 NODE_1, whole genome shotgun sequence
+>VKCM01000001.1 Ligilactobacillus murinus strain 2S2P1 NODE_1, whole genome shotgun sequence
+>AZGD01000001.1 Ligilactobacillus hayakitensis DSM 18933 = JCM 14209 strain DSM 18933 NODE_1, whole genome shotgun sequence
+>VKCL01000001.1 Ligilactobacillus murinus strain 2V1P1 NODE_1, whole genome shotgun sequence
+>VKCN01000001.1 Ligilactobacillus murinus strain 1V2P2 NODE_1, whole genome shotgun sequence
+>VKCO01000001.1 Ligilactobacillus murinus strain 1V1P2 NODE_1, whole genome shotgun sequence
+>LFJM01000001.1 Ligilactobacillus animalis strain 14-7927 14-7927_1, whole genome shotgun sequence
+>VKCQ01000001.1 Ligilactobacillus murinus strain 1S2P1 NODE_1, whole genome shotgun sequence
+>VKCP01000001.1 Ligilactobacillus murinus strain 1V1P1 NODE_1, whole genome shotgun sequence
+>AYYW01000050.1 Ligilactobacillus animalis KCTC 3501 = DSM 20602 NODE_100, whole genome shotgun sequence
+>CP040852.1 Ligilactobacillus murinus strain V10 chromosome, complete genome
+>VKBZ01000001.1 Ligilactobacillus murinus strain VM1F2 NODE_1, whole genome shotgun sequence
+>JACBXZ010000002.1 Ligilactobacillus murinus strain LAC NODE_100_length_2846_cov_23.3612_ID_199, whole genome shotgun sequence
+>LFJL01000001.1 Ligilactobacillus animalis strain 09-2317 09-2317_1, whole genome shotgun sequence
+>JADGKI010000002.1 Ligilactobacillus murinus strain LAC.1 NODE_100_length_2846_cov_23.3612_ID_199, whole genome shotgun sequence
+>JADGME010000100.1 Ligilactobacillus murinus strain 19428wF2_HT12 NODE_100_length_1523_cov_22.0251, whole genome shotgun sequence
+>JADGLU010000001.1 Ligilactobacillus murinus strain 2_2BalbC1BO2_S2 contig000001, whole genome shotgun sequence
+>AYYZ01000008.1 Ligilactobacillus araffinosus DSM 20653 NODE_10, whole genome shotgun sequence
+>JACJMD010000001.1 Ligilactobacillus aviarius strain An347 An347_contig-110_0, whole genome shotgun sequence
+>AP025728.1 Ligilactobacillus murinus DNA, complete genome
+>CP039849.1 Ligilactobacillus animalis strain LL1 chromosome, complete genome
+>JAHLNW010000001.1 Ligilactobacillus animalis strain N71 No.71_ctg001, whole genome shotgun sequence
+>BJUI01000001.1 Ligilactobacillus aviarius NBRC 102162 DNA, sequence01, whole genome shotgun sequence
+>QXXN01000104.1 Ligilactobacillus murinus strain 510-9 Scaffold100_1, whole genome shotgun sequence
+>JAUDEB010000001.1 Ligilactobacillus aviarius strain 151_Feed 151_Feed_scaffold_1, whole genome shotgun sequence
+>JAASIZ010000001.1 Ligilactobacillus murinus strain K48_2 scaf_1, whole genome shotgun sequence
+>JANKBB010000100.1 Ligilactobacillus murinus strain DSM 28690 NODE_100_length_3018_cov_76.982659, whole genome shotgun sequence
+>JAUDED010000001.1 Ligilactobacillus agilis strain 147_Schadl_VitK 147_Shaedl_VitK_scaffold_1, whole genome shotgun sequence
+>CP047141.1 Ligilactobacillus animalis strain P38 chromosome, complete genome
+>VIQY01000089.1 Ligilactobacillus murinus strain MD040 7_Assembly.final.scaffolds_scaffold1.1, whole genome shotgun sequence
+>VKBT01000001.1 Ligilactobacillus murinus strain VM2V2 NODE_1, whole genome shotgun sequence
+>VKBS01000001.1 Ligilactobacillus murinus strain VM2V3 NODE_1, whole genome shotgun sequence
+>VKBW01000001.1 Ligilactobacillus murinus strain VM1V2 NODE_1, whole genome shotgun sequence
+>VKBU01000001.1 Ligilactobacillus murinus strain VM2F3 NODE_1, whole genome shotgun sequence
+>VKBV01000001.1 Ligilactobacillus murinus strain VM1V3 NODE_1, whole genome shotgun sequence
+>VKCA01000001.1 Ligilactobacillus murinus strain VM1F1 NODE_1, whole genome shotgun sequence
+>VKCB01000001.1 Ligilactobacillus murinus strain SM2V2 NODE_1, whole genome shotgun sequence
+>JANKBA010000010.1 Ligilactobacillus murinus strain DSM 100194 NODE_10_length_64413_cov_117.369840, whole genome shotgun sequence
+>CP127832.1 Ligilactobacillus cholophilus strain BD7642 chromosome, complete genome
+>JANKAZ010000100.1 Ligilactobacillus murinus strain DSM 100193 NODE_100_length_4305_cov_122.306528, whole genome shotgun sequence
+>JANKAY010000010.1 Ligilactobacillus apodemi strain DSM 16748 NODE_10_length_86147_cov_133.808168, whole genome shotgun sequence
+>CP129339.1 Ligilactobacillus animalis strain SRCM217969 chromosome, complete genome
+>ANAG01000001.1 Ligilactobacillus saerimneri 30a contig00001, whole genome shotgun sequence
+>KB714685.1 Lactobacillus pobuzihii E100301 genomic scaffold NODE_19, whole genome shotgun sequence
+>APCP01000004.1 Ligilactobacillus pobuzihii E100301 = KCTC 13174 strain E100301 contig_4, whole genome shotgun sequence
+>KB714700.1 Lactobacillus pobuzihii E100301 genomic scaffold NODE_54, whole genome shotgun sequence
+>CP097561.1 Ligilactobacillus murinus ASF361 chromosome, complete genome
+>JAPRAP010000001.1 Ligilactobacillus murinus strain Mic09 Scaffold1, whole genome shotgun sequence
+>AUHQ01000001.1 Ligilactobacillus saerimneri DSM 16049 G541DRAFT_scaffold00001.1_C, whole genome shotgun sequence
+>KE383994.1 Lactobacillus saerimneri DSM 16049 genomic scaffold G541DRAFT_scaffold00007.7, whole genome shotgun sequence
+>JAPRAO010000001.1 Ligilactobacillus murinus strain Mic08 Scaffold1, whole genome shotgun sequence
+>JAPRAN010000001.1 Ligilactobacillus murinus strain Mic07 Scaffold1, whole genome shotgun sequence
+>AWYA01000057.1 Ligilactobacillus ruminis DPC 6832 NODE_1, whole genome shotgun sequence
+>JAPRAM010000001.1 Ligilactobacillus murinus strain Mic06 Scaffold1, whole genome shotgun sequence
+>JAQDUA010000001.1 Ligilactobacillus agilis strain AM110-61 IF3HA21014B.Scaf1, whole genome shotgun sequence
+>JAQDTV010000001.1 Ligilactobacillus agilis strain AM110-53 IF3HA21006B.Scaf1, whole genome shotgun sequence
+>JAUNZL010000010.1 Ligilactobacillus animalis strain GP0046 NODE_10_length_62197_cov_269.361558, whole genome shotgun sequence
+>AWYB01000001.1 Ligilactobacillus ruminis S23 NODE_1, whole genome shotgun sequence
+>JHAJ01000007.1 Ligilactobacillus ruminis strain ATCC 27780 NODE_10, whole genome shotgun sequence
+>JHAB01000047.1 Ligilactobacillus ruminis strain DPC 6830 NODE_105, whole genome shotgun sequence
+>AZCL01000001.1 Ligilactobacillus pobuzihii E100301 = KCTC 13174 Scaffold1, whole genome shotgun sequence
+>JAQDTS010000001.1 Ligilactobacillus agilis strain AM110-45 BF3HA21006B.Scaf1, whole genome shotgun sequence
+>AZFP01000001.1 Ligilactobacillus saerimneri DSM 16049 Scaffold1, whole genome shotgun sequence
+>JANCTK010000010.1 Ligilactobacillus animalis strain Fb2 NODE_10_length_66080_cov_243.510719, whole genome shotgun sequence
+>CP137688.1 Ligilactobacillus murinus strain KD6 chromosome, complete genome
+>CP121161.1 Ligilactobacillus murinus strain PC39 chromosome, complete genome
+>JAKGTO010000001.1 Ligilactobacillus equi strain IMAU81196 Scaffold1, whole genome shotgun sequence
+>JAQDTR010000001.1 Ligilactobacillus agilis strain AM110-43 BF3HA21004B.Scaf1, whole genome shotgun sequence
+>BAAACL010000001.1 Ligilactobacillus aviarius JCM 5666 DNA, sequence01, whole genome shotgun sequence
+>AYYN01000004.1 Ligilactobacillus murinus DSM 20452 = NBRC 14221 strain DSM 20452 NODE_10, whole genome shotgun sequence
+>AYYL01000001.1 Ligilactobacillus ruminis DSM 20403 = NBRC 102161 strain DSM 20403 Scaffold1, whole genome shotgun sequence
+>JQCN01000001.1 Ligilactobacillus pobuzihii strain NBRC 103219 NODE_1, whole genome shotgun sequence
+>JAQDSU010000001.1 Ligilactobacillus agilis strain AM110-129 GF3HA21006.Scaf1, whole genome shotgun sequence
+>BCVJ01000001.1 Ligilactobacillus murinus DSM 20452 = NBRC 14221 DNA, contig: LMU01S_CON0001_0001, whole genome shotgun sequence
+>BCVU01000001.1 Ligilactobacillus ruminis DSM 20403 = NBRC 102161 DNA, contig: LRU01S_CON0001_0001, whole genome shotgun sequence
+>MRYP01000010.1 Ligilactobacillus ruminis strain PEL65 NODE_10_length_63592_cov_123.083_ID_19, whole genome shotgun sequence
+>MRYO01000001.1 Ligilactobacillus ruminis strain GRL1172 contig00001, whole genome shotgun sequence
+>BAAAWB010000001.1 Ligilactobacillus murinus JCM 1717 DNA, sequence01, whole genome shotgun sequence
+>CP163515.1 Ligilactobacillus agilis strain W70 chromosome, complete genome
+>JAQDSV010000001.1 Ligilactobacillus agilis strain AM110-13 BF3HA21001.Scaf1, whole genome shotgun sequence
+>JBCLTX010000001.1 Ligilactobacillus animalis strain 4-211 voucher GPTB0024 scaffold1, whole genome shotgun sequence
+>JBCLUF010000001.1 Ligilactobacillus faecis strain 15-30 voucher GPTB0016 scaffold1, whole genome shotgun sequence
+>MRYQ01000010.1 Ligilactobacillus ruminis strain PEL66 NODE_10_length_78540_cov_328.098_ID_19, whole genome shotgun sequence
+>QSQR01000001.1 Ligilactobacillus ruminis strain TF10-9AT TF10-9AT.Scaf1, whole genome shotgun sequence
+>JBCLUU010000001.1 Ligilactobacillus murinus strain 1-9 voucher GPTB0001 scaffold1, whole genome shotgun sequence
+>CP120352.1 Ligilactobacillus murinus strain PG1-1-10 chromosome, complete genome
+>CP123639.1 Ligilactobacillus faecis strain WILCCON 0062 chromosome, complete genome
+>CP173167.1 Ligilactobacillus animalis strain D27 chromosome, complete genome
+>CP138345.1 Ligilactobacillus murinus strain XYW20210915001 chromosome, complete genome
+>CP140606.1 Ligilactobacillus murinus strain XYW20210915003 chromosome, complete genome
+>BFFP01000001.1 Ligilactobacillus salitolerans DNA, sequence001, whole genome shotgun sequence
+>RCYN01000001.1 Ligilactobacillus ruminis strain bz_0080 Scaffold_0001, whole genome shotgun sequence
+>BJYB01000001.1 Ligilactobacillus pobuzihii NBRC 103219 DNA, sequence01, whole genome shotgun sequence
+>WKNS01000010.1 Ligilactobacillus ruminis strain BIOML-A29 scaffold10_size66498, whole genome shotgun sequence
+>WKNT01000010.1 Ligilactobacillus ruminis strain BIOML-A28 scaffold10_size66541, whole genome shotgun sequence
+>WKNY01000010.1 Ligilactobacillus ruminis strain BIOML-A23 scaffold10_size60204, whole genome shotgun sequence
+>WKNU01000010.1 Ligilactobacillus ruminis strain BIOML-A27 scaffold10_size66639, whole genome shotgun sequence
+>WKOB01000010.1 Ligilactobacillus ruminis strain BIOML-A20 scaffold10_size60413, whole genome shotgun sequence
+>JASCIW010000001.1 Ligilactobacillus aviarius strain CML180 1, whole genome shotgun sequence
+>WKNZ01000010.1 Ligilactobacillus ruminis strain BIOML-A22 scaffold10_size65842, whole genome shotgun sequence
+>WKOC01000069.1 Ligilactobacillus ruminis strain BIOML-A19 scaffold104_size1576, whole genome shotgun sequence
+>WKOF01000010.1 Ligilactobacillus ruminis strain BIOML-A16 scaffold10_size66611, whole genome shotgun sequence
+>WKOD01000060.1 Ligilactobacillus ruminis strain BIOML-A18 scaffold108_size1713, whole genome shotgun sequence
+>CABIVU010000001.1 Lactobacillus murinus isolate MGYG-HGUT-00009 genome assembly, contig: .12718_7_17.1, whole genome shotgun sequence
+>CP123751.1 Ligilactobacillus animalis strain ZSB1 chromosome, complete genome
+>CABIZJ010000001.1 Lactobacillus animalis isolate MGYG-HGUT-00097 genome assembly, contig: .20298_2_1.1, whole genome shotgun sequence
+>WKOE01000010.1 Ligilactobacillus ruminis strain BIOML-A17 scaffold10_size76083, whole genome shotgun sequence
+>WKOH01000010.1 Ligilactobacillus ruminis strain BIOML-A14 scaffold10_size65646, whole genome shotgun sequence
+>WKOI01000010.1 Ligilactobacillus ruminis strain BIOML-A13 scaffold10_size66081, whole genome shotgun sequence
+>WKNV01000010.1 Ligilactobacillus ruminis strain BIOML-A26 scaffold10_size66528, whole genome shotgun sequence
+>CABMJQ010000001.1 Lactobacillus agilis isolate MGYG-HGUT-02390 genome assembly, contig: GUT_GENOME142486_1, whole genome shotgun sequence
+>WKNW01000036.1 Ligilactobacillus ruminis strain BIOML-A25 scaffold102_size14339, whole genome shotgun sequence
+>JASOLP010000100.1 Ligilactobacillus agilis strain UMB7763 NODE_100_length_540_cov_1.107991, whole genome shotgun sequence
+>WKNX01000010.1 Ligilactobacillus ruminis strain BIOML-A24 scaffold10_size64985, whole genome shotgun sequence
+>WKOG01000010.1 Ligilactobacillus ruminis strain BIOML-A15 scaffold10_size66074, whole genome shotgun sequence
+>WKOA01000010.1 Ligilactobacillus ruminis strain BIOML-A21 scaffold10_size76165, whole genome shotgun sequence
+>CAJTBD010000001.1 Ligilactobacillus murinus isolate 6.LM.Ymh genome assembly, contig: MGBC000007.1, whole genome shotgun sequence
+>CAJSZF010000001.1 Ligilactobacillus murinus isolate A9_1.LM.DSS genome assembly, contig: MGBC000024.1, whole genome shotgun sequence
+>CAJTAQ010000001.1 Ligilactobacillus murinus isolate A32_24.LM.DSS genome assembly, contig: MGBC000047.1, whole genome shotgun sequence
+>CAJTBV010000001.1 Ligilactobacillus murinus isolate A54_46.LM.DSS genome assembly, contig: MGBC000065.1, whole genome shotgun sequence
+>CAJTCJ010000001.1 Ligilactobacillus murinus isolate A51_43.LA.DSS genome assembly, contig: MGBC000062.1, whole genome shotgun sequence
+>WKOS01000010.1 Ligilactobacillus ruminis strain BIOML-A3 scaffold10_size68471, whole genome shotgun sequence
+>CAJTFQ010000001.1 Ligilactobacillus murinus isolate C82_3_LM_Ymh genome assembly, contig: MGBC000185.1, whole genome shotgun sequence
+>WKOL01000010.1 Ligilactobacillus ruminis strain BIOML-A10 scaffold10_size66459, whole genome shotgun sequence
+>WKOK01000010.1 Ligilactobacillus ruminis strain BIOML-A11 scaffold10_size67277, whole genome shotgun sequence
+>WKOM01000010.1 Ligilactobacillus ruminis strain BIOML-A9 scaffold10_size91056, whole genome shotgun sequence
+>WKOO01000010.1 Ligilactobacillus ruminis strain BIOML-A7 scaffold10_size61083, whole genome shotgun sequence
+>CANCWJ010000001.1 Ligilactobacillus aviarius isolate B009 genome assembly, contig: NODE_1_length_609302_cov_525.800770, whole genome shotgun sequence
+>WKON01000010.1 Ligilactobacillus ruminis strain BIOML-A8 scaffold10_size90549, whole genome shotgun sequence
+>WKOT01000010.1 Ligilactobacillus ruminis strain BIOML-A1 scaffold10_size68683, whole genome shotgun sequence
+>CP047418.1 Ligilactobacillus saerimneri strain 1A chromosome, complete genome
+>WKOP01000010.1 Ligilactobacillus ruminis strain BIOML-A6 scaffold10_size69131, whole genome shotgun sequence
+>CANCVY010000001.1 Ligilactobacillus aviarius isolate B056 genome assembly, contig: NODE_1_length_591562_cov_543.483586, whole genome shotgun sequence
+>WNWO01000001.1 Ligilactobacillus pobuzihii strain LP1 LP1_Scaffold_1, whole genome shotgun sequence
+>CP007646.1 Lactobacillus salivarius strain JCM1046, complete genome
+>JAHLOG010000001.1 Ligilactobacillus saerimneri strain N69 No.69_ctg001, whole genome shotgun sequence
+>JADYTQ010000100.1 Ligilactobacillus ruminis strain An917 An917_NODE_100_length_228_cov_31.845161_pilon, whole genome shotgun sequence
+>CANCWR010000001.1 Ligilactobacillus aviarius isolate B118 genome assembly, contig: NODE_1_length_556976_cov_588.465677, whole genome shotgun sequence
+>BQXH01000001.1 Ligilactobacillus pabuli AF129 DNA, sequence01, whole genome shotgun sequence
+>CP011403.1 Lactobacillus salivarius str. Ren, complete genome
+>CP102284.1 Ligilactobacillus ruminis strain ATCC 25644 chromosome, complete genome
+>JVAF01000001.1 Ligilactobacillus salivarius strain 609_LSAL 0_72117_895471, whole genome shotgun sequence
+>JAPTHF010000007.1 Ligilactobacillus saerimneri strain UO.C121 NODE_12_length_115964_cov_30.782320, whole genome shotgun sequence
+>JUQA01000001.1 Ligilactobacillus salivarius strain 866_LSAL 0_65882_1557241, whole genome shotgun sequence
+>CANCWS010000001.1 Ligilactobacillus aviarius isolate J35 genome assembly, contig: NODE_1_length_406652_cov_380.744025, whole genome shotgun sequence
+>JAQDES010000001.1 Ligilactobacillus ruminis strain AF91-01pH10A AF91-01pH10A.Scaf1, whole genome shotgun sequence
+>JUTI01000001.1 Ligilactobacillus salivarius strain 778_LSAL 0_241_14590, whole genome shotgun sequence
+>JAQEHE010000001.1 Ligilactobacillus ruminis strain AM73-2pH5 AM73-2pH5.Scaf1, whole genome shotgun sequence
+>CANCWT010000001.1 Ligilactobacillus aviarius isolate J25 genome assembly, contig: NODE_1_length_197733_cov_430.628157, whole genome shotgun sequence
+>CANCWU010000001.1 Ligilactobacillus aviarius isolate I11 genome assembly, contig: NODE_1_length_224913_cov_543.126483, whole genome shotgun sequence
+>AYYT01000001.1 Ligilactobacillus salivarius DSM 20555 = ATCC 11741 strain DSM 20555 Scaffold1, whole genome shotgun sequence
+>CP017107.1 Ligilactobacillus salivarius strain CICC 23174 chromosome, complete genome
+>CP017108.1 Lactobacillus salivarius strain CICC23174 plasmid pLS_1 sequence
+>JAQECW010000001.1 Ligilactobacillus ruminis strain AM41-8A AM41-8A.Scaf1, whole genome shotgun sequence
+>JAQDYK010000001.1 Ligilactobacillus ruminis strain AM12-58A AM12-58A.Scaf1, whole genome shotgun sequence
+>JAQCXN010000001.1 Ligilactobacillus ruminis strain AF32-14A AF32-14A.Scaf1, whole genome shotgun sequence
+>CANCXC010000001.1 Ligilactobacillus sp. DJ3G5/DJ4M19 isolate J14 genome assembly, contig: NODE_1_length_738960_cov_528.656212, whole genome shotgun sequence
+>JAQFEC010000001.1 Ligilactobacillus ruminis strain TM08-12A TM08-12A.Scaf1, whole genome shotgun sequence
+>CANCXE010000001.1 Ligilactobacillus sp. DJ3G5/DJ4M19 isolate J11 genome assembly, contig: NODE_1_length_356445_cov_617.989542, whole genome shotgun sequence
+>NBEA01000001.1 Ligilactobacillus salivarius strain NCIMB702343 NCIMB702343_contig_1, whole genome shotgun sequence
+>JAQFDM010000001.1 Ligilactobacillus ruminis strain TF14-10GNA TF14-10GNA.Scaf1, whole genome shotgun sequence
+>JAQEZR010000001.1 Ligilactobacillus ruminis strain OM04-11A OM04-11A.Scaf1, whole genome shotgun sequence
+>NBDX01000001.1 Ligilactobacillus salivarius strain NCIMB8818 NCIMB8818_contig_1, whole genome shotgun sequence
+>JAQEQS010000001.1 Ligilactobacillus ruminis strain AM91-03FA AM91-03FA.Scaf1, whole genome shotgun sequence
+>JAQLUQ010000010.1 Ligilactobacillus ruminis strain 1001262st1_H7_1001262B_160229 NODE_10_length_66438_cov_71.3799, whole genome shotgun sequence
+>NBDZ01000001.1 Ligilactobacillus salivarius strain NCIMB8816 NCIMB8816_contig_1, whole genome shotgun sequence
+>CANCXF010000001.1 Ligilactobacillus aviarius isolate J01 genome assembly, contig: NODE_1_length_367242_cov_406.950968, whole genome shotgun sequence
+>JAQLUR010000010.1 Ligilactobacillus ruminis strain 1001262st1_D2_1001262B_160229 NODE_10_length_64707_cov_62.0864, whole genome shotgun sequence
+>JAQLUO010000010.1 Ligilactobacillus ruminis strain RTP21221st1_D8_RTP21221_200709 NODE_10_length_73229_cov_19.917090, whole genome shotgun sequence
+>NBEC01000001.1 Ligilactobacillus salivarius strain LMG 14476 LMG14476_contig_1, whole genome shotgun sequence
+>JAQLUP010000010.1 Ligilactobacillus ruminis strain RTP21221st1_A2_RTP21221_200709 NODE_10_length_74888_cov_21.706781, whole genome shotgun sequence
+>JAQLUN010000010.1 Ligilactobacillus ruminis strain RTP21221st1_E3_RTP21221_200709 NODE_10_length_85609_cov_15.248819, whole genome shotgun sequence
+>NBEE01000001.1 Ligilactobacillus salivarius strain JCM 1230 JCM1230_contig_1, whole genome shotgun sequence
+>CANCXH010000001.1 Ligilactobacillus aviarius isolate J03 genome assembly, contig: NODE_1_length_276241_cov_540.887980, whole genome shotgun sequence
+>CP117687.1 Ligilactobacillus ruminis strain CACC881 chromosome, complete genome
+>NBEF01000001.1 Ligilactobacillus salivarius strain JCM 1047 JCM1047_contig_1, whole genome shotgun sequence
+>JAPXFN010000011.1 Ligilactobacillus saerimneri strain TBRC 5746 Scaffold10_1, whole genome shotgun sequence
+>NBED01000001.1 Ligilactobacillus salivarius strain L21 L21_contig_1, whole genome shotgun sequence
+>CANCXI010000001.1 Ligilactobacillus aviarius isolate J28 genome assembly, contig: NODE_1_length_206838_cov_457.843771, whole genome shotgun sequence
+>CP129341.1 Ligilactobacillus ruminis strain SRCM218231 chromosome, complete genome
+>GL833109.1 Lactobacillus ruminis ATCC 25644 genomic scaffold SCAFFOLD1, whole genome shotgun sequence
+>NBEG01000001.1 Ligilactobacillus salivarius strain JCM 1045 JCM1045_contig_1, whole genome shotgun sequence
+>CP144759.1 Ligilactobacillus saerimneri strain M-11 chromosome, complete genome
+>NBEH01000001.1 Ligilactobacillus salivarius strain JCM 1044 JCM1044_contig_1, whole genome shotgun sequence
+>AFOJ01000012.1 Ligilactobacillus ruminis SPM0211 83_12, whole genome shotgun sequence
+>JBDPDF010000001.1 Ligilactobacillus ruminis strain B5_hJ1101004_210123 NODE_1_length_76586_cov_10.247461, whole genome shotgun sequence
+>CP003032.1 Lactobacillus ruminis ATCC 27782, complete genome
+>NBEI01000001.1 Ligilactobacillus salivarius strain JCM 1042 JCM1042_contig_1, whole genome shotgun sequence
+>JBDPDD010000001.1 Ligilactobacillus ruminis strain RTP21221st1_A3_RTP21221_200709 NODE_1_length_90909_cov_23.367106, whole genome shotgun sequence
+>NBEJ01000001.1 Ligilactobacillus salivarius strain JCM 1040 JCM1040_contig_1, whole genome shotgun sequence
+>AFYE01000100.1 Lactobacillus ruminis ATCC 25644, whole genome shotgun sequence
+>JBBNKM010000010.1 Ligilactobacillus ruminis strain CLA-AA-H88 CLAAAH88_contig_10_length_67982, whole genome shotgun sequence
+>NBEK01000001.1 Ligilactobacillus salivarius strain gul2 gul-2_contig_1, whole genome shotgun sequence
+>JBCPFJ010000010.1 Ligilactobacillus ruminis strain RTP21102st1_B2_RTP21102_210122 NODE_10_length_69995_cov_27.055422, whole genome shotgun sequence
+>NBEL01000001.1 Ligilactobacillus salivarius strain gul1 gul-1_contig_1, whole genome shotgun sequence
+>LXZQ01000001.1 Ligilactobacillus salivarius strain KLA004 NODE_100_length_952_cov_6.04901_ID_8331, whole genome shotgun sequence
+>FOPI01000055.1 Lactobacillus ruminis DSM 20403 = NBRC 102161 genome assembly, contig: IE15DRAFT_scaffold00053.53, whole genome shotgun sequence
+>LXZM01000001.1 Ligilactobacillus salivarius strain KLF002 NODE_100_length_1763_cov_0.0647482_ID_10676, whole genome shotgun sequence
+>NBEM01000001.1 Ligilactobacillus salivarius strain DSM 20554 DSM20554_contig_1, whole genome shotgun sequence
+>LXZO01000001.1 Ligilactobacillus salivarius strain KLA006 NODE_100_length_2195_cov_4.1419_ID_9657, whole genome shotgun sequence
+>NBEN01000001.1 Ligilactobacillus salivarius strain DSM 20492 DSM20492_contig_1, whole genome shotgun sequence
+>CABKOX010000001.1 Lactobacillus ruminis isolate MGYG-HGUT-01334 genome assembly, contig: NZ_GL833109.1, whole genome shotgun sequence
+>LXZL01000001.1 Ligilactobacillus salivarius strain KLF003 NODE_100_length_2266_cov_2.63795_ID_7436, whole genome shotgun sequence
+>NBEO01000001.1 Ligilactobacillus salivarius strain CCuG47826 CCuG47826_contig_1, whole genome shotgun sequence
+>CANCVX010000001.1 Ligilactobacillus saerimneri isolate B085 genome assembly, contig: NODE_1_length_182888_cov_467.005607, whole genome shotgun sequence
+>LXZJ01000001.1 Ligilactobacillus salivarius strain KLF005 NODE_100_length_1998_cov_7.35418_ID_7185, whole genome shotgun sequence
+>LXZK01000001.1 Ligilactobacillus salivarius strain KLF004 NODE_100_length_823_cov_54.9835_ID_7181, whole genome shotgun sequence
+>NBEQ01000001.1 Ligilactobacillus salivarius strain CCuG47171 CCuG47171_contig_1, whole genome shotgun sequence
+>CANCVW010000001.1 Ligilactobacillus saerimneri isolate B075 genome assembly, contig: NODE_1_length_145987_cov_493.166596, whole genome shotgun sequence
+>NBEP01000001.1 Ligilactobacillus salivarius strain CCuG47825 CCuG47825_contig_1, whole genome shotgun sequence
+>NBER01000001.1 Ligilactobacillus salivarius strain CCuG45735 CCuG45735_contig_1, whole genome shotgun sequence
+>LXZH01000001.1 Ligilactobacillus salivarius strain KLF007 NODE_100_length_821_cov_92.1157_ID_7572, whole genome shotgun sequence
+>LXZF01000001.1 Ligilactobacillus salivarius strain KLW002 NODE_100_length_759_cov_0.259036_ID_5083, whole genome shotgun sequence
+>LXZD01000001.1 Ligilactobacillus salivarius strain KLW004 NODE_100_length_5064_cov_4.90863_ID_10749, whole genome shotgun sequence
+>NBES01000001.1 Ligilactobacillus salivarius strain CCuG44481 CCuG44481_contig_1, whole genome shotgun sequence
+>CAXSOY010000001.1 Ligilactobacillus ruminis S23 isolate CC00724 genome assembly, contig: CC00724_1_NODE_1_length_465534_cov_147.494836, whole genome shotgun sequence
+>NBET01000001.1 Ligilactobacillus salivarius strain CCuG38008 CCuG38008_contig_1, whole genome shotgun sequence
+>LXZE01000001.1 Ligilactobacillus salivarius strain KLW003 NODE_100_length_3016_cov_1.41048_ID_11281, whole genome shotgun sequence
+>CAYEUZ010000001.1 Ligilactobacillus murinus isolate consensus genome assembly, contig: contig1, whole genome shotgun sequence
+>LXZC01000001.1 Ligilactobacillus salivarius strain KLW005 NODE_10_length_59355_cov_3.91984_ID_5215, whole genome shotgun sequence
+>NBEU01000001.1 Ligilactobacillus salivarius strain CCuG2753OB CCuG2753OB_contig_1, whole genome shotgun sequence
+>CP002034.1 Lactobacillus salivarius CECT 5713, complete genome
+>NBEX01000001.1 Ligilactobacillus salivarius strain AH4331 AH4331_contig_1, whole genome shotgun sequence
+>NBEV01000001.1 Ligilactobacillus salivarius strain AH43348 AH43348_contig_1, whole genome shotgun sequence
+>NBEB01000001.1 Ligilactobacillus salivarius strain LMG 14477 LMG14477_contig_1, whole genome shotgun sequence
+>LXZB01000001.1 Ligilactobacillus salivarius strain KLW006 NODE_100_length_505_cov_0.0536585_ID_6114, whole genome shotgun sequence
+>LXZA01000001.1 Ligilactobacillus salivarius strain KLW007 NODE_10_length_49729_cov_2.54614_ID_5888, whole genome shotgun sequence
+>LXYZ01000001.1 Ligilactobacillus salivarius strain KLW008 NODE_100_length_1566_cov_0.216179_ID_7162, whole genome shotgun sequence
+>GG693252.1 Lactobacillus salivarius ATCC 11741 genomic scaffold SCAFFOLD32, whole genome shotgun sequence
+>LXYY01000001.1 Ligilactobacillus salivarius strain KLW009 NODE_10_length_58278_cov_3.44888_ID_5787, whole genome shotgun sequence
+>NBEW01000001.1 Ligilactobacillus salivarius strain AH43324 AH43324_contig_1, whole genome shotgun sequence
+>NBEY01000001.1 Ligilactobacillus salivarius strain AH4231 AH4231_contig_1, whole genome shotgun sequence
+>MSCR01000001.1 Ligilactobacillus salivarius strain 01M14315 01M14315_contig_1, whole genome shotgun sequence
+>AEBA01000154.1 Ligilactobacillus salivarius ACS-116-V-Col5a contig00152, whole genome shotgun sequence
+>NBDY01000001.1 Ligilactobacillus salivarius strain NCIMB8817 NCIMB8817_contig_1, whole genome shotgun sequence
+>LXZG01000001.1 Ligilactobacillus salivarius strain KLW001 NODE_100_length_2954_cov_1.62609_ID_9595, whole genome shotgun sequence
+>NFHV01000001.1 Ligilactobacillus salivarius strain An63 An63_contig_1, whole genome shotgun sequence
+>LXYX01000001.1 Ligilactobacillus salivarius strain KLW010 NODE_100_length_3140_cov_0.2_ID_11448, whole genome shotgun sequence
+>LXZP01000001.1 Ligilactobacillus salivarius strain KLA005 NODE_100_length_615_cov_3.05577_ID_7308, whole genome shotgun sequence
+>AFMN01000004.1 Ligilactobacillus salivarius NIAS840 84_4, whole genome shotgun sequence
+>LXZT01000001.1 Ligilactobacillus salivarius strain KLA001 NODE_100_length_788_cov_9.49639_ID_7183, whole genome shotgun sequence
+>NFLK01000001.1 Ligilactobacillus salivarius strain An128 An128_contig_1, whole genome shotgun sequence
+>NFHF01000001.1 Ligilactobacillus salivarius strain An84 An84_contig_1, whole genome shotgun sequence
+>CP020858.1 Ligilactobacillus salivarius strain ZLS006 chromosome, complete genome
+>AFOI01000011.1 Ligilactobacillus salivarius GJ-24 LSGJ_11, whole genome shotgun sequence
+>NDYW01000010.1 Ligilactobacillus salivarius strain L28 NODE_10_length_71574_cov_72.6823_ID_604, whole genome shotgun sequence
+>LXZR01000001.1 Ligilactobacillus salivarius strain KLA003 NODE_100_length_2095_cov_3.344_ID_6803, whole genome shotgun sequence
+>CP024063.1 Ligilactobacillus salivarius strain BCRC 12574 chromosome
+>AICL01000007.1 Ligilactobacillus salivarius SMXD51 plasmid pLS51A, whole genome shotgun sequence
+>AICL01000008.1 Lactobacillus salivarius SMXD51 plasmid pLS51B, complete sequence, whole genome shotgun sequence
+>PECX01000002.1 Ligilactobacillus salivarius strain SGL 03 plasmid pSGL03 P16001_SI_L_salivarius_MB30__SGL03__scaffold_02, whole genome shotgun sequence
+>LXZS01000001.1 Ligilactobacillus salivarius strain KLA002 NODE_100_length_690_cov_4.05882_ID_7321, whole genome shotgun sequence
+>CBVR010000001.1 Lactobacillus salivarius cp400 WGS project CBVR000000000 data, contig scaffold1, whole genome shotgun sequence
+>VSVI01000001.1 Ligilactobacillus salivarius strain FJLHD2M8 Scaffold1, whole genome shotgun sequence
+>PKGN01000001.1 Ligilactobacillus salivarius strain 290 contig1, whole genome shotgun sequence
+>VSUO01000001.1 Ligilactobacillus salivarius strain FWXBH35_2 scaffold1, whole genome shotgun sequence
+>QAZF01000051.1 Ligilactobacillus salivarius strain DS3_12 DS3_12_108_length_694_cov_2050.592593, whole genome shotgun sequence
+>QAZG01000010.1 Ligilactobacillus salivarius strain DS13_12 DS13_12_10_length_57563_cov_222.488171, whole genome shotgun sequence
+>VSVM01000001.1 Ligilactobacillus salivarius strain FJLHD18M1 Scaffold1, whole genome shotgun sequence
+>VSVJ01000001.1 Ligilactobacillus salivarius strain FJLHD27M4 Scaffold1, whole genome shotgun sequence
+>VSUQ01000001.1 Ligilactobacillus salivarius strain FWXBH25_3 scaffold1, whole genome shotgun sequence
+>VSVK01000001.1 Ligilactobacillus salivarius strain FJLHD25M7 Scaffold1, whole genome shotgun sequence
+>QAGV01000010.1 Ligilactobacillus salivarius strain DS11_12 DS11_12_10_length_62467_cov_26.587344, whole genome shotgun sequence
+>VSUU01000001.1 Ligilactobacillus salivarius strain FSDLZ18M11 scaffold1, whole genome shotgun sequence
+>QAGU01000057.1 Ligilactobacillus salivarius strain DS2_12 DS2_12_100_length_217_cov_9.044444, whole genome shotgun sequence
+>VSVN01000001.1 Ligilactobacillus salivarius strain FJLHD16M3 Scaffold1, whole genome shotgun sequence
+>VSTQ01000001.1 Ligilactobacillus salivarius strain HENA17_3 scaffold1, whole genome shotgun sequence
+>VSVL01000001.1 Ligilactobacillus salivarius strain FJLHD24M1 Scaffold1, whole genome shotgun sequence
+>QFAS01000001.1 Ligilactobacillus salivarius strain A3iob _Contig_001, whole genome shotgun sequence
+>VSUP01000001.1 Ligilactobacillus salivarius strain FWXBH3_1.scaf Scaffold1, whole genome shotgun sequence
+>CP029616.1 Ligilactobacillus salivarius strain DJ-sa-01 chromosome, complete genome
+>QSTB01000001.1 Ligilactobacillus salivarius strain OM08-20 OM08-20.Scaf1, whole genome shotgun sequence
+>VSVP01000001.1 Ligilactobacillus salivarius strain FJLHD10M2 Scaffold1, whole genome shotgun sequence
+>VSVO01000001.1 Ligilactobacillus salivarius strain FJLHD14M6 Scaffold1, whole genome shotgun sequence
+>VSVR01000001.1 Ligilactobacillus salivarius strain FHNXY27_L3 Scaffold1, whole genome shotgun sequence
+>VSTU01000001.1 Ligilactobacillus salivarius strain FZJTZ28M4.scaf Scaffold1, whole genome shotgun sequence
+>VSVS01000001.1 Ligilactobacillus salivarius strain FGSYC47M10 Scaffold1, whole genome shotgun sequence
+>QSLH01000001.1 Ligilactobacillus salivarius strain AM25-8 AM25-8.Scaf1, whole genome shotgun sequence
+>VSTJ01000001.1 Ligilactobacillus salivarius strain NT62_5 scaffold1, whole genome shotgun sequence
+>VSVQ01000001.1 Ligilactobacillus salivarius strain FHNXY73M9 Scaffold1, whole genome shotgun sequence
+>VSVT01000001.1 Ligilactobacillus salivarius strain FGSYC2M4_2 Scaffold1, whole genome shotgun sequence
+>VSUG01000001.1 Ligilactobacillus salivarius strain FXJSW20M4_2 Scaffold1, whole genome shotgun sequence
+>VSVU01000001.1 Ligilactobacillus salivarius strain FGDLZ35_2.scaf Scaffold1, whole genome shotgun sequence
+>QRMK01000001.1 Ligilactobacillus salivarius strain AM09-40 AM09-40.Scaf1, whole genome shotgun sequence
+>VSUI01000001.1 Ligilactobacillus salivarius strain FXJKS17M7 Scaffold1, whole genome shotgun sequence
+>VSVV01000001.1 Ligilactobacillus salivarius strain FCQNA25M6 Scaffold1, whole genome shotgun sequence
+>VSUL01000001.1 Ligilactobacillus salivarius strain FXJCJ23M1 Scaffold1, whole genome shotgun sequence
+>VSVX01000001.1 Ligilactobacillus salivarius strain FCQHC3_L6_2 Scaffold1, whole genome shotgun sequence
+>VSVW01000001.1 Ligilactobacillus salivarius strain FCQHC8_L1 Scaffold1, whole genome shotgun sequence
+>VCMN01000001.1 Ligilactobacillus salivarius strain C12 contig00001, whole genome shotgun sequence
+>VSUV01000001.1 Ligilactobacillus salivarius strain FSDLZ17M12 scaffold1, whole genome shotgun sequence
+>VCMO01000001.1 Ligilactobacillus salivarius strain C2 contig00001, whole genome shotgun sequence
+>VSVY01000001.1 Ligilactobacillus salivarius strain FBJSY20_2 scaffold1, whole genome shotgun sequence
+>VSUT01000001.1 Ligilactobacillus salivarius strain FSDLZ20M1_2 Scaffold1, whole genome shotgun sequence
+>VSVZ01000001.1 Ligilactobacillus salivarius strain FAHBZ_8M2 Scaffold1, whole genome shotgun sequence
+>VSUR01000001.1 Ligilactobacillus salivarius strain FWXBH2_2 scaffold1, whole genome shotgun sequence
+>VSWA01000001.1 Ligilactobacillus salivarius strain E6_1 Scaffold1, whole genome shotgun sequence
+>VSUW01000001.1 Ligilactobacillus salivarius strain F_SD_HZ_D3_L_5 Scaffold1, whole genome shotgun sequence
+>VSWB01000001.1 Ligilactobacillus salivarius strain 6_2 Scaffold1, whole genome shotgun sequence
+>VSVG01000001.1 Ligilactobacillus salivarius strain FJLHD4M1 Scaffold1, whole genome shotgun sequence
+>VSTI01000001.1 Ligilactobacillus salivarius strain NT64_1 scaffold1, whole genome shotgun sequence
+>VSUX01000001.1 Ligilactobacillus salivarius strain FNXYC6M7 Scaffold1, whole genome shotgun sequence
+>VSVC01000001.1 Ligilactobacillus salivarius strain FJSWX_34J_L5 Scaffold1, whole genome shotgun sequence
+>VSUS01000001.1 Ligilactobacillus salivarius strain FWXBH18_5 scaffold1, whole genome shotgun sequence
+>VSTK01000001.1 Ligilactobacillus salivarius strain NT4_8 scaffold1, whole genome shotgun sequence
+>JAAJBN010000010.1 Ligilactobacillus salivarius strain VA40-10 NODE_10_length_62375_cov_144.900414, whole genome shotgun sequence
+>VSTL01000001.1 Ligilactobacillus salivarius strain NT33_2 scaffold1, whole genome shotgun sequence
+>VSTM01000001.1 Ligilactobacillus salivarius strain NT15_1 scaffold1, whole genome shotgun sequence
+>VSUY01000001.1 Ligilactobacillus salivarius strain FNMGHLBE8_L1 Scaffold1, whole genome shotgun sequence
+>CP027644.1 Ligilactobacillus salivarius strain IBB3154 chromosome, complete genome
+>VSVA01000001.1 Ligilactobacillus salivarius strain FNMGHLBE13_L1 Scaffold1, whole genome shotgun sequence
+>VSTP01000001.1 Ligilactobacillus salivarius strain HN24_2 scaffold1, whole genome shotgun sequence
+>JABAFL010000001.1 Ligilactobacillus salivarius strain WCA-389-WT-5E Contig_1, whole genome shotgun sequence
+>VSTO01000001.1 Ligilactobacillus salivarius strain HN26_4 scaffold1, whole genome shotgun sequence
+>VSUZ01000001.1 Ligilactobacillus salivarius strain FNMGHLBE2_L7 Scaffold1, whole genome shotgun sequence
+>JABRBP010000001.1 Ligilactobacillus salivarius strain BIO6313 Lactobacillus_salivarius_BIO6313_1, whole genome shotgun sequence
+>VSVB01000001.1 Ligilactobacillus salivarius strain FNMGHLBE11_L1_2 Scaffold1, whole genome shotgun sequence
+>VSTN01000001.1 Ligilactobacillus salivarius strain JSWX5_1 scaffold1, whole genome shotgun sequence
+>JACBGJ010000001.1 Ligilactobacillus salivarius strain KZ-NCB Lactobacillus_salivarius_contig_1, whole genome shotgun sequence
+>VSTR01000001.1 Ligilactobacillus salivarius strain FZJTZ9M6.scaf Scaffold1, whole genome shotgun sequence
+>VSTT01000001.1 Ligilactobacillus salivarius strain FZJTZ64M3 scaffold1, whole genome shotgun sequence
+>VSVD01000001.1 Ligilactobacillus salivarius strain FJSWX10_2 Scaffold1, whole genome shotgun sequence
+>JACBJR010000100.1 Ligilactobacillus salivarius strain FFIG58 Lactobacillus_salivarius_FFIG58_contig_100_1, whole genome shotgun sequence
+>VSVF01000001.1 Ligilactobacillus salivarius strain FJLHD7M2 Scaffold1, whole genome shotgun sequence
+>VSTW01000001.1 Ligilactobacillus salivarius strain FZJTZ1M1 Scaffold1, whole genome shotgun sequence
+>JACBJX010000100.1 Ligilactobacillus salivarius strain FFIG124 Lactobacillus_salivarius_FFIG124_contig_100_1, whole genome shotgun sequence
+>VSTV01000001.1 Ligilactobacillus salivarius strain FZJTZ27M6_2 Scaffold1, whole genome shotgun sequence
+>VSTX01000001.1 Ligilactobacillus salivarius strain FZJTZ13M4 Scaffold1, whole genome shotgun sequence
+>VSVE01000001.1 Ligilactobacillus salivarius strain FJLHD9M1 Scaffold1, whole genome shotgun sequence
+>JACBJS010000100.1 Ligilactobacillus salivarius strain FFIG23 Lactobacillus_salivarius_FFIG23_contig_100_1, whole genome shotgun sequence
+>VSVH01000001.1 Ligilactobacillus salivarius strain FJLHD32M4 Scaffold1, whole genome shotgun sequence
+>VSTZ01000001.1 Ligilactobacillus salivarius strain FYNLJ23_2.scaf Scaffold1, whole genome shotgun sequence
+>VSTY01000001.1 Ligilactobacillus salivarius strain FZJTZ10M2.scaf Scaffold1, whole genome shotgun sequence
+>JACBJT010000100.1 Ligilactobacillus salivarius strain FFIG53 Lactobacillus_salivarius_FFIG53_contig_100_1, whole genome shotgun sequence
+>VSUC01000001.1 Ligilactobacillus salivarius strain FYNDL2_4.scaf Scaffold1, whole genome shotgun sequence
+>VSUB01000001.1 Ligilactobacillus salivarius strain FYNDL5_1.scaf Scaffold1, whole genome shotgun sequence
+>JAINRM010000001.1 Ligilactobacillus salivarius strain AER04 contig00001, whole genome shotgun sequence
+>JACBJU010000100.1 Ligilactobacillus salivarius strain FFIG60 Lactobacillus_salivarius_FFIG60_contig_100_1, whole genome shotgun sequence
+>JAINRO010000001.1 Ligilactobacillus salivarius strain AER36 contig00001, whole genome shotgun sequence
+>VSUA01000001.1 Ligilactobacillus salivarius strain FYNDL6_3.scaf Scaffold1, whole genome shotgun sequence
+>CP047412.1 Ligilactobacillus salivarius strain 2D chromosome, complete genome
+>VSUD01000001.1 Ligilactobacillus salivarius strain FXJWS6M4_2 Scaffold1, whole genome shotgun sequence
+>CP084925.1 Ligilactobacillus salivarius strain AR809 chromosome, complete genome
+>VSUE01000001.1 Ligilactobacillus salivarius strain FXJWS41_2.scaf Scaffold1, whole genome shotgun sequence
+>QOZV01000237.1 Ligilactobacillus salivarius plasmid pMP118 contig_1701, whole genome shotgun sequence
+>VSUH01000001.1 Ligilactobacillus salivarius strain FXJKS25M8 Scaffold1, whole genome shotgun sequence
+>VSUJ01000001.1 Ligilactobacillus salivarius strain FXJCJ9_2.scaf Scaffold1, whole genome shotgun sequence
+>VSUF01000001.1 Ligilactobacillus salivarius strain FXJSW2_3.scaf Scaffold1, whole genome shotgun sequence
+>CP089850.1 Ligilactobacillus salivarius strain BNS11 chromosome, complete genome
+>CP090411.1 Ligilactobacillus salivarius strain 2102-15 chromosome, complete genome
+>CP062071.1 Ligilactobacillus salivarius strain ZLp4b chromosome, complete genome
+>JADYUB010000100.1 Ligilactobacillus salivarius strain An879 An879_NODE_100_length_1277_cov_13.151085_pilon, whole genome shotgun sequence
+>VSUK01000001.1 Ligilactobacillus salivarius strain FXJCJ7_2 Scaffold1, whole genome shotgun sequence
+>VSUN01000001.1 Ligilactobacillus salivarius strain FWXBH4_1 scaffold1, whole genome shotgun sequence
+>JADCKI010000001.1 Ligilactobacillus salivarius strain DSM 108969 seq1, whole genome shotgun sequence
+>VSUM01000001.1 Ligilactobacillus salivarius strain FWXBH9_2 scaffold1, whole genome shotgun sequence
+>CP097639.1 Ligilactobacillus salivarius strain S01 chromosome, complete genome
+>JADCTW010000001.1 Ligilactobacillus salivarius strain 144 Scaffold_0001_0bp, whole genome shotgun sequence
+>JAMXTA010000010.1 Ligilactobacillus salivarius strain B27-2 NODE_10_length_59868_cov_206.117593, whole genome shotgun sequence
+>JARACG010000001.1 Ligilactobacillus salivarius strain LMG 9477 LMG9477_contig_1, whole genome shotgun sequence
+>JADCTX010000001.1 Ligilactobacillus salivarius strain 160 Scaffold_0001_0bp, whole genome shotgun sequence
+>JARXNG010000010.1 Ligilactobacillus salivarius strain W57D NODE_10_length_59781_cov_105.451537, whole genome shotgun sequence
+>JAIULA010000039.1 Ligilactobacillus sp. WILCCON 0076 plasmid unnamed NODE_39_length_8358_cov_2045.934187, whole genome shotgun sequence
+>JADDMV010000010.1 Ligilactobacillus salivarius strain UBLS-22 NODE_10_length_84294_cov_387.695917, whole genome shotgun sequence
+>CP101530.1 Ligilactobacillus salivarius strain SNK-6 chromosome, complete genome
+>CP123986.1 Ligilactobacillus salivarius strain AR612 chromosome, complete genome
+>JADMXL010000033.1 Ligilactobacillus salivarius strain 1001095A_150126_H2 NODE_100_length_1615_cov_16.3654, whole genome shotgun sequence
+>CP114543.1 Ligilactobacillus salivarius strain S92 chromosome, complete genome
+>JANFQI010000001.1 Ligilactobacillus sp. MP3 1, whole genome shotgun sequence
+>JADNEF010000100.1 Ligilactobacillus salivarius strain D6t1_180914_C6 NODE_100_length_5049_cov_15.6629, whole genome shotgun sequence
+>CP101685.1 Ligilactobacillus salivarius strain L.S.05 chromosome, complete genome
+>JADNNS010000010.1 Ligilactobacillus salivarius strain 1001295B_180824_C9 NODE_10_length_61888_cov_29.6776, whole genome shotgun sequence
+>CP097165.1 Ligilactobacillus salivarius strain VHProbi A17 chromosome, complete genome
+>JADMRB010000010.1 Ligilactobacillus salivarius strain 1001287B_170213_E2 NODE_10_length_66110_cov_41.0155, whole genome shotgun sequence
+>CP102519.1 Ligilactobacillus salivarius strain SS-258 chromosome, complete genome
+>CP104732.1 Ligilactobacillus salivarius strain H1 chromosome, complete genome
+>JADMRT010000010.1 Ligilactobacillus salivarius strain 1001270B_150601_C6 NODE_10_length_91455_cov_72.8535, whole genome shotgun sequence
+>JAPSFH010000037.1 Ligilactobacillus sp. UO.C109 NODE_100_length_2585_cov_12.049517, whole genome shotgun sequence
+>JAEHNU010000052.1 Ligilactobacillus salivarius strain T3 NODE_103_length_543_cov_36.320442, whole genome shotgun sequence
+>JAQEHZ010000001.1 Ligilactobacillus salivarius strain AM79-08pH10TA AM79-08pH10TA.Scaf1, whole genome shotgun sequence
+>JAEHNS010000054.1 Ligilactobacillus salivarius strain A19 NODE_105_length_148_cov_31.743244, whole genome shotgun sequence
+>JAQEEQ010000001.1 Ligilactobacillus salivarius strain AM60-15pH4 AM60-15pH4.Scaf1, whole genome shotgun sequence
+>JAQDUT010000001.1 Ligilactobacillus salivarius strain AM110-98 PF3HA21011B.Scaf1, whole genome shotgun sequence
+>JASGSL010000001.1 Ligilactobacillus salivarius strain C39 contig00001, whole genome shotgun sequence
+>JAGJSJ010000001.1 Ligilactobacillus salivarius strain F14 11, whole genome shotgun sequence
+>JAUDDE010000001.1 Ligilactobacillus salivarius strain 92_BHI 92_BHI_scaffold_1, whole genome shotgun sequence
+>JACJJO010000010.1 Ligilactobacillus salivarius strain An813 An813_NODE_10_length_70422_cov_21.762791_pilon, whole genome shotgun sequence
+>JAUDDR010000001.1 Ligilactobacillus salivarius strain 30_SSukc10 30_SSukc10_scaffold_1, whole genome shotgun sequence
+>JAQDUS010000001.1 Ligilactobacillus salivarius strain AM110-97 PF3HA21010B.Scaf1, whole genome shotgun sequence
+>JACJKD010000001.1 Ligilactobacillus salivarius strain An787 An787_contig-115_0, whole genome shotgun sequence
+>JAQDDD010000001.1 Ligilactobacillus salivarius strain AF71-03pH5A AF71-03pH5A.Scaf1, whole genome shotgun sequence
+>JAUDDY010000001.1 Ligilactobacillus salivarius strain 156_Feed 156_Feed_scaffold_1, whole genome shotgun sequence
+>JAUDCU010000001.1 Ligilactobacillus salivarius strain ET141 ET141_scaffold_1, whole genome shotgun sequence
+>JACJLI010000001.1 Ligilactobacillus salivarius strain An453 An453_contig-110_0, whole genome shotgun sequence
+>JAUDEC010000001.1 Ligilactobacillus salivarius strain 150_Feed 150_Feed_scaffold_1, whole genome shotgun sequence
+>JAQDBS010000001.1 Ligilactobacillus salivarius strain AF61-10pH5 AF61-10pH5.Scaf1, whole genome shotgun sequence
+>VCYF01000001.1 Ligilactobacillus salivarius strain C3 contig00001, whole genome shotgun sequence
+>JAQDBM010000001.1 Ligilactobacillus salivarius strain AF59-11pH5 AF59-11pH5.Scaf1, whole genome shotgun sequence
+>JAUIQT010000001.1 Ligilactobacillus salivarius strain SRCM217594 contig1, whole genome shotgun sequence
+>JAUIQU010000002.1 Ligilactobacillus salivarius strain SRCM217619 plasmid unnamed1, whole genome shotgun sequence
+>JAINRN010000001.1 Ligilactobacillus salivarius strain AER35 contig00001, whole genome shotgun sequence
+>JAQCTV010000001.1 Ligilactobacillus salivarius strain AF11-8H AF11-8H.Scaf1, whole genome shotgun sequence
+>JAULLI010000001.1 Ligilactobacillus sp. 110_WCHN 110_WCHN_scaffold_1, whole genome shotgun sequence
+>JBAGCY010000001.1 Ligilactobacillus salivarius strain NCK1355 RSD_Lsal_1355p_1, whole genome shotgun sequence
+>JAUMJN010000084.1 Ligilactobacillus salivarius strain ZK-88 NODE_106_length_371_cov_2.537594, whole genome shotgun sequence
+>JARVGD010000010.1 Ligilactobacillus salivarius strain B10 NODE_10_length_84394_cov_168.144968, whole genome shotgun sequence
+>JAQCTP010000001.1 Ligilactobacillus salivarius strain AF11-29H AF11-29H.Scaf1, whole genome shotgun sequence
+>JAQCTM010000001.1 Ligilactobacillus salivarius strain AF11-20 AF11-20.Scaf1, whole genome shotgun sequence
+>JBEXAF010000001.1 Ligilactobacillus salivarius strain C1-4 NODE_1_length_784618_cov_36.570156, whole genome shotgun sequence
+>JAQCTK010000001.1 Ligilactobacillus salivarius strain AF11-17H AF11-17H.Scaf1, whole genome shotgun sequence
+>JAQFAH010000001.1 Ligilactobacillus salivarius strain OM13-15MHA OM13-15MHA.Scaf1, whole genome shotgun sequence
+>JAWOJM010000001.1 Ligilactobacillus salivarius strain CavFT-hAR125 contig_1, whole genome shotgun sequence
+>CP137608.1 Ligilactobacillus salivarius strain C2-1 chromosome, complete genome
+>JBFDAF010000001.1 Ligilactobacillus salivarius strain C2-3 NODE_1_length_784618_cov_33.487501, whole genome shotgun sequence
+>JAWPOB010000001.1 Ligilactobacillus salivarius strain BF12 1, whole genome shotgun sequence
+>JAQEZH010000001.1 Ligilactobacillus salivarius strain OF46-5pH5 OF46-5pH5.Scaf1, whole genome shotgun sequence
+>JBCOLH010000010.1 Ligilactobacillus salivarius strain 1001295st1_G10_RTP21277_210401 NODE_10_length_85570_cov_31.134455, whole genome shotgun sequence
+>JAQEYR010000001.1 Ligilactobacillus salivarius strain OF42-10pH5A OF42-10pH5A.Scaf1, whole genome shotgun sequence
+>CP117983.1 Ligilactobacillus salivarius strain B4311 chromosome, complete genome
+>JBCOLG010000010.1 Ligilactobacillus salivarius strain 1001295st1_D6_RTP21277_210401 NODE_10_length_73990_cov_30.523413, whole genome shotgun sequence
+>JAQEUO010000001.1 Ligilactobacillus salivarius strain LG55-22 LG55-22.Scaf1, whole genome shotgun sequence
+>JBCOLF010000010.1 Ligilactobacillus salivarius strain 1001295st1_D10_RTP21277_210401 NODE_10_length_85693_cov_37.343370, whole genome shotgun sequence
+>JBBPDY010000086.1 Ligilactobacillus salivarius strain UO.C249 plasmid p-af479 Plasmid_AF479, whole genome shotgun sequence
+>JAQEUF010000001.1 Ligilactobacillus salivarius strain LG100-36 LG100-36.Scaf1, whole genome shotgun sequence
+>JBCOLE010000010.1 Ligilactobacillus salivarius strain 1001295st1_A9_RTP21277_210401 NODE_10_length_75245_cov_29.552203, whole genome shotgun sequence
+>JBCFAB010000001.1 Ligilactobacillus salivarius strain B60 1, whole genome shotgun sequence
+>JBCOLC010000010.1 Ligilactobacillus salivarius strain 1001295st1_A10_RTP21277_210401 NODE_10_length_75244_cov_13.498902, whole genome shotgun sequence
+>JBCFAC010000001.1 Ligilactobacillus salivarius strain B37 1, whole genome shotgun sequence
+>JAQERD010000001.1 Ligilactobacillus salivarius strain AM93-02F AM93-02F.Scaf1, whole genome shotgun sequence
+>JBCFAA010000001.1 Ligilactobacillus salivarius strain B78 1, whole genome shotgun sequence
+>JBCOLD010000010.1 Ligilactobacillus salivarius strain 1001295st1_A6_RTP21277_210401 NODE_10_length_75244_cov_23.361981, whole genome shotgun sequence
+>JAQTKX010000001.1 Ligilactobacillus salivarius strain SRCM217603 contig1, whole genome shotgun sequence
+>JAYMDJ010000010.1 Ligilactobacillus salivarius strain Cec01 NODE_10_length_60281_cov_217.054801, whole genome shotgun sequence
+>JBCEYG010000001.1 Ligilactobacillus salivarius strain Lac45 1, whole genome shotgun sequence
+>JBDMDQ010000001.1 Ligilactobacillus salivarius strain RTP21428st1_A4_RTP21428_210409 NODE_1_length_160089_cov_11.887183, whole genome shotgun sequence
+>JAPWJV010000010.1 Ligilactobacillus salivarius strain CML391 NODE_10_length_70402_cov_648.501145, whole genome shotgun sequence
+>JBCEYF010000001.1 Ligilactobacillus salivarius strain NL5 1, whole genome shotgun sequence
+>JARBJI010000010.1 Ligilactobacillus salivarius strain 098-2021-6 NODE_10_length_54984_cov_211.000200, whole genome shotgun sequence
+>JBDMQG010000001.1 Ligilactobacillus salivarius strain 1001295st1_D10_1001295B_180824 NODE_1_length_390804_cov_28.2249, whole genome shotgun sequence
+>JBCEYH010000001.1 Ligilactobacillus salivarius strain Lac40 1, whole genome shotgun sequence
+>JBDMQI010000001.1 Ligilactobacillus salivarius strain 1001095st1_H2_1001095A_150126 NODE_3_length_1941_cov_16.3955, whole genome shotgun sequence
+>JBDMQF010000001.1 Ligilactobacillus salivarius strain 1001295st1_G12_1001295H_181012 NODE_1_length_389965_cov_23.3911, whole genome shotgun sequence
+>JARBJK010000010.1 Ligilactobacillus salivarius strain A7-2-5 NODE_10_length_62103_cov_40.554555, whole genome shotgun sequence
+>JARBJL010000010.1 Ligilactobacillus salivarius strain A7-1-15 NODE_10_length_52124_cov_63.617143, whole genome shotgun sequence
+>JBDMQH010000001.1 Ligilactobacillus salivarius strain 1001295st1_C9_1001295B_180824 NODE_1_length_390257_cov_24.1395, whole genome shotgun sequence
+>JBHGVH010000001.1 Ligilactobacillus salivarius strain P1CEA3 1, whole genome shotgun sequence
+>JBDMQJ010000001.1 Ligilactobacillus salivarius strain 1001095st1_B1_1001095IJ_161003 NODE_1_length_419574_cov_26.0024, whole genome shotgun sequence
+>JBDMQL010000001.1 Ligilactobacillus salivarius strain 1001095st1_A1_1001095A_150126 NODE_1_length_17975_cov_8.20212, whole genome shotgun sequence
+>JARBJG010000010.1 Ligilactobacillus salivarius strain 144-2021-8 NODE_10_length_57130_cov_38.468682, whole genome shotgun sequence
+>JARBJN010000010.1 Ligilactobacillus salivarius strain A5-1-10 NODE_10_length_62373_cov_58.529077, whole genome shotgun sequence
+>JBHGVG010000001.1 Ligilactobacillus salivarius strain PG21 1, whole genome shotgun sequence
+>JARBJM010000010.1 Ligilactobacillus salivarius strain A5-2-10 NODE_10_length_50443_cov_59.257244, whole genome shotgun sequence
+>JARBJO010000010.1 Ligilactobacillus salivarius strain 198vzk-4 NODE_10_length_55596_cov_236.854216, whole genome shotgun sequence
+>JBDMQK010000001.1 Ligilactobacillus salivarius strain 1001095st1_A1_1001095IJ_161003 NODE_1_length_236466_cov_27.4302, whole genome shotgun sequence
+>JBCOAR010000001.1 Ligilactobacillus sp. RTP31139st1_D10_RTP31139_211217 NODE_1_length_236847_cov_29.853470, whole genome shotgun sequence
+>JBJFZV010000010.1 Ligilactobacillus sp. LYQ60 Scaffold10_1, whole genome shotgun sequence
+>JBAGCZ010000001.1 Ligilactobacillus salivarius strain NCK1352 RSD_Lsal_1352p_1, whole genome shotgun sequence
+>JAKNSJ010000100.1 Ligilactobacillus salivarius strain C57 NODE_100_length_396_cov_0.918216, whole genome shotgun sequence
+>JBJFZW010000010.1 Ligilactobacillus sp. LYQ139 Scaffold10_1, whole genome shotgun sequence
+>JARKHV010000098.1 Ligilactobacillus salivarius strain Salm-9 NODE_100_length_474_cov_0.746398, whole genome shotgun sequence
+>CP174169.1 Ligilactobacillus salivarius strain MRD4403 chromosome
+>CP116812.1 Ligilactobacillus salivarius strain P1CEA3 chromosome, complete genome
+>CP151158.1 Ligilactobacillus salivarius strain TCI153 chromosome, complete genome
+>CP158282.1 Ligilactobacillus salivarius strain LZZAY01 chromosome, complete genome
+>JBKIWS010000001.1 Ligilactobacillus sp. LYQ112 Scaffold1_1, whole genome shotgun sequence
+>JBKZCF010000001.1 Ligilactobacillus salivarius strain M698A M698A_contig_1, whole genome shotgun sequence
+>JBKZCE010000001.1 Ligilactobacillus salivarius strain M688A M688A_contig_1, whole genome shotgun sequence
+>JBKZBL010000001.1 Ligilactobacillus salivarius strain M488A M488A_contig_1, whole genome shotgun sequence
+>JBKZBM010000001.1 Ligilactobacillus salivarius strain M494A M494A_contig_1, whole genome shotgun sequence
+>CP166896.1 Ligilactobacillus salivarius strain XIF24 chromosome, complete genome
+>JBLWIR010000001.1 Ligilactobacillus salivarius strain SuAm7 NODE_1_length_557020_cov_860.161040, whole genome shotgun sequence
+>JBLWQH010000001.1 Ligilactobacillus salivarius strain BH7-4s NODE_1_length_312826_cov_22.458575, whole genome shotgun sequence
+>JBLWQG010000001.1 Ligilactobacillus salivarius strain BH1-7 NODE_1_length_401604_cov_25.470414, whole genome shotgun sequence
+>CP183830.1 Ligilactobacillus salivarius strain T25a chromosome 1, complete sequence
+>JBANFE010000001.1 Ligilactobacillus salivarius strain GX118 Scaffold1, whole genome shotgun sequence
+>LT604074.1 Lactobacillus salivarius isolate LPM01 genome assembly, chromosome: I
+>FOCC01000026.1 Lactobacillus ruminis strain WC1T17 genome assembly, contig: Ga0104362_126, whole genome shotgun sequence
+>CABMGV010000001.1 Lactobacillus salivarius isolate MGYG-HGUT-02324 genome assembly, contig: GUT_GENOME141003_1, whole genome shotgun sequence
+>CAKMBQ010000001.1 Ligilactobacillus salivarius isolate IM849 genome assembly, contig: NODE_1_length_758281_cov_62.439139, whole genome shotgun sequence
+>CANCWC010000001.1 Ligilactobacillus salivarius isolate B108 genome assembly, contig: NODE_1_length_187283_cov_440.735067, whole genome shotgun sequence
+>CANCWW010000001.1 Ligilactobacillus salivarius isolate J06 genome assembly, contig: NODE_1_length_151167_cov_383.590496, whole genome shotgun sequence
+>CASCJC010000001.1 Ligilactobacillus sp. Marseille-Q7487 genome assembly, contig: contig00001, whole genome shotgun sequence
+>CBCRTQ010000001.1 Ligilactobacillus salivarius strain CIP103140T genome assembly, contig: NODE_0001, whole genome shotgun sequence
