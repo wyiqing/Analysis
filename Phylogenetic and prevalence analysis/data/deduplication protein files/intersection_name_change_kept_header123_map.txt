@@ -1,0 +1,291 @@
+Limosilactobacillus secaliphilus	1
+Pediococcus argentinicus	2
+Limosilactobacillus fermentum	3
+Lapidilactobacillus dextrinicus	4
+Ligilactobacillus apodemi	5
+Lapidilactobacillus concavus	6
+Pediococcus claussenii	7
+Ligilactobacillus salivarius	8
+Liquorilactobacillus vini	9
+Liquorilactobacillus oeni	10
+Fructilactobacillus lindneri	11
+Paucilactobacillus vaccinostercus	12
+Levilactobacillus brevis	13
+Pediococcus acidilactici	14
+Ligilactobacillus hayakitensis	15
+Loigolactobacillus backii	16
+Ligilactobacillus araffinosus	17
+Paucilactobacillus oligofermentans	18
+Liquorilactobacillus nagelii	19
+Secundilactobacillus kimchicus	20
+Agrilactobacillus composti	21
+Loigolactobacillus coryniformis	22
+Secundilactobacillus malefermentans	23
+Secundilactobacillus paracollinoides	24
+Ligilactobacillus equi	25
+Lentilactobacillus buchneri	26
+Bombilactobacillus mellis	27
+Liquorilactobacillus capillatus	28
+Limosilactobacillus mucosae	29
+Liquorilactobacillus cacaonum	30
+Secundilactobacillus mixtipabuli	31
+Loigolactobacillus rennini	32
+Fructilactobacillus cliffordii	33
+Limosilactobacillus coleohominis	34
+Companilactobacillus farciminis	35
+Streptococcus sp. HSISB1	36
+Limosilactobacillus gastricus	37
+Limosilactobacillus frumenti	38
+Ligilactobacillus agilis	39
+Furfurilactobacillus siliginis	40
+Secundilactobacillus similis	41
+Ligilactobacillus saerimneri	42
+Companilactobacillus tucceti	43
+Apilactobacillus kunkeei	44
+Streptococcus infantis	45
+Levilactobacillus bambusae	46
+Streptococcus minor	47
+Streptococcus suis	48
+Paucilactobacillus wasatchensis	49
+Pediococcus cellicola	50
+Limosilactobacillus panis	51
+Acetilactobacillus jinshanensis	52
+Loigolactobacillus bifermentans	53
+Streptococcus pluranimalium	54
+Streptococcus sp. zg-36	55
+Streptococcus sp. sy004	56
+Streptococcus pneumoniae	57
+Streptococcus himalayensis	58
+Streptococcus pneumoniae	59
+Streptococcus urinalis	60
+Streptococcus ovuberis	61
+Lentilactobacillus curieae	62
+Streptococcus henryi	63
+Companilactobacillus allii	64
+Bombilactobacillus mellifer	65
+Streptococcus merionis	66
+Ligilactobacillus ceti	67
+Schleiferilactobacillus perolens	68
+Streptococcus agalactiae	69
+Fructilactobacillus florum	70
+Streptococcus uberis	71
+Streptococcus sp. DD10	72
+Streptococcus thermophilus	73
+Streptococcus pantholopis	74
+Amylolactobacillus amylophilus	75
+Streptococcus downei	76
+Ligilactobacillus araffinosus	77
+Streptococcus danieliae	78
+Streptococcus pasteurianus	79
+Streptococcus ictaluri	80
+Lactobacillus acidophilus	81
+Streptococcus sp. DD13	82
+Lactobacillus hominis	83
+Streptococcus phocae	84
+Bombilactobacillus apium	85
+Lactobacillus apis	86
+Lactobacillus delbrueckii	87
+Apilactobacillus ozensis	88
+Streptococcus hyointestinalis	89
+Philodulcilactobacillus myokoensis	90
+Lactobacillus pasteurii	91
+Lactobacillus xujianguonis	92
+Streptococcus merionis	93
+Lactobacillus amylolyticus	94
+Lactobacillus kalixensis	95
+Lactobacillus rodentium	96
+Lactobacillus rodentium	97
+Lactobacillus johnsonii	98
+Lactobacillus iners	99
+Lactobacillus helveticus	100
+Lactobacillus corticis	101
+Lactobacillus acetotolerans	102
+Lactobacillus helveticus	103
+Lactobacillus psittaci	104
+Lactobacillus acidophilus	105
+Lactobacillus sp. LL6	106
+Lactobacillus hominis	107
+Apilactobacillus ozensis	108
+Acetanaerobacterium elongatum	109
+Corynebacterium aquilae	110
+Muribaculum intestinale	111
+Duncaniella muris	112
+Bifidobacterium actinocoloniiforme	113
+Acinetobacter guillouiae	114
+Corynebacterium sp. 13CS0277	115
+Propionicimonas paludicola	116
+Diaminobutyricimonas aerilata	117
+Duncaniella freteri	118
+Streptococcus suis	119
+Paramuribaculum intestinale	120
+Frigoribacterium sp. RIT-PI-h	121
+Corynebacterium pyruviciproducens	122
+Prevotella sp. 885	123
+Corynebacterium matruchotii	124
+Christensenella hongkongensis	125
+Bifidobacterium callitrichos	126
+Corynebacterium imitans	127
+Bifidobacterium stellenboschense	128
+Prevotella corporis	129
+Frigoribacterium sp. PhB160	130
+Corynebacterium pseudotuberculosis	131
+Prevotella multiformis	132
+Christensenella minuta	133
+Prevotella nigrescens	134
+Lacrimispora algidixylanolytica	135
+Enterocloster lavalensis	136
+Alloprevotella tannerae	137
+Corynebacterium mustelae	138
+Frigoribacterium sp. Leaf172	139
+Prevotella brunnea	140
+Butyricimonas sp. An62	141
+Bifidobacterium ramosum	142
+Corynebacterium camporealensis	143
+Corynebacterium sp. ATCC 6931	144
+Frigoribacterium sp. CG_9.8	145
+Prevotella veroralis	146
+Corynebacterium sp. HMSC08D02	147
+Prevotella aff. ruminicola Tc2-24	148
+Odoribacter laneus	149
+Corynebacterium riegelii	150
+Odoribacter splanchnicus	151
+Prevotella lacticifex	152
+Corynebacterium sp. KPL1821	153
+Corynebacterium resistens	154
+Prevotella histicola	155
+Bifidobacterium coryneforme	156
+Bifidobacterium oedipodis	157
+Bifidobacterium commune	158
+Prevotella sp. P3-122	159
+Emergencia timonensis	160
+Bifidobacterium scaligerum	161
+Alloprevotella rava	162
+Prevotella lacticifex	163
+Prevotella dentalis	164
+Prevotella sp. P3-120	165
+Bifidobacterium primatium	166
+Bifidobacterium felsineum	167
+Corynebacterium glaucum	168
+Bifidobacterium longum	169
+Corynebacterium kutscheri	170
+Corynebacterium epidermidicanis	171
+Bifidobacterium castoris	172
+Bifidobacterium bombi	173
+Corynebacterium timonense	174
+Bifidobacterium magnum	175
+Bifidobacterium reuteri	176
+Corynebacterium gerontici	177
+Bifidobacterium animalis	178
+Bifidobacterium moraviense	179
+Corynebacterium diphtheriae	180
+Corynebacterium alimapuense	181
+Corynebacterium freneyi	182
+Corynebacterium phocae	183
+Corynebacterium falsenii	184
+Corynebacterium spheniscorum	185
+Corynebacterium sp. ED61	186
+Corynebacterium frankenforstense	187
+Corynebacterium aquatimens	188
+Corynebacterium endometrii	189
+Prevotella veroralis	190
+Corynebacterium flavescens	191
+Phocaeicola coprocola	192
+Corynebacterium poyangense	193
+Muribaculum sp. An287	194
+Bifidobacterium tsurumiense	195
+Bifidobacterium pullorum	196
+Corynebacterium renale	197
+Bifidobacterium simiarum	198
+Bifidobacterium mongoliense	199
+Opitutus sp. ER46	200
+Alloprevotella sp. Lung230	201
+Prevotella koreensis	202
+Corynebacterium ureicelerivorans	203
+Muribaculum intestinale	204
+Corynebacterium sp. HMSC04H06	205
+Bifidobacterium cuniculi	206
+Corynebacterium sp. TAE3-ERU30	207
+Prevotellaceae bacterium KH2P17	208
+Corynebacterium otitidis	209
+Corynebacterium incognita	210
+Paraprevotella xylaniphila	211
+Prevotella sp. oral taxon 299	212
+Corynebacterium callunae	213
+Bifidobacterium minimum	214
+Corynebacterium yudongzhengii	215
+Corynebacterium choanae	216
+Corynebacterium mendelii	217
+Corynebacterium vitaeruminis	218
+Corynebacterium uterequi	219
+Corynebacterium heidelbergense	220
+Corynebacterium urogenitale	221
+Corynebacterium aurimucosum	222
+Corynebacterium glutamicum	223
+Prevotella sp. P5-92	224
+Prevotella sp. P3-120	225
+Corynebacterium efficiens	226
+Corynebacterium humireducens	227
+Prevotella histicola	228
+Corynebacterium urealyticum	229
+Prevotella corporis	230
+Bifidobacterium psychraerophilum	231
+Corynebacterium halotolerans	232
+Corynebacterium meridianum	233
+Bifidobacterium adolescentis	234
+Corynebacterium durum	235
+Corynebacterium testudinoris	236
+Corynebacterium mycetoides	237
+Corynebacterium sp. DNF00584	238
+Prevotella sp. S7-1-8	239
+Alloprevotella sp. oral taxon 473	240
+Bifidobacterium merycicum	241
+Prevotella sp. TF12-30	242
+Corynebacterium pilosum	243
+Prevotella sp. tc2-28	244
+Prevotellaceae bacterium HUN156	245
+Prevotella sp. ne3005	246
+Alloprevotella rava	247
+Prevotella sp. KH2C16	248
+Corynebacterium kalinowskii	249
+Corynebacterium sp. 366	250
+Prevotella sp. oral taxon 317	251
+Companilactobacillus versmoldensis	252
+Corynebacterium sp. HMSC077D03	253
+Corynebacterium sp. KPL1989	254
+Corynebacterium jeikeium	255
+Prevotella multiformis	256
+Corynebacterium marinum	257
+Prevotella bivia	258
+Prevotella communis	259
+Corynebacterium canis	260
+Prevotella nigrescens	261
+Bifidobacterium subtile	262
+Prevotella sp. S7 MS 2	263
+Prevotella aff. ruminicola Tc2-24	264
+Prevotella micans	265
+Corynebacterium lizhenjunii	266
+Corynebacterium doosanense	267
+Prevotella communis	268
+Corynebacterium sp. sy039	269
+Corynebacterium tuscaniense	270
+Corynebacterium lowii	271
+Corynebacterium bovis	272
+Corynebacterium provencense	273
+Corynebacterium argentoratense	274
+Agrobacterium albertimagni	275
+Prevotella sp. P3-122	276
+Prevotella sp. tf2-5	277
+Corynebacterium sphenisci	278
+Corynebacterium genitalium	279
+Prevotella sp. ne3005	280
+Corynebacterium glyciniphilum	281
+Prevotella dentalis	282
+Corynebacterium terpenotabidum	283
+Curvibacter sp. AEP1-3	284
+Pseudobdellovibrio exovorus	285
+Bdellovibrio sp. SKB1291214	286
+Prevotella sp. tc2-28	287
+Bdellovibrio sp. NC01	288
+Bdellovibrio bacteriovorus	289
+Pseudobdellovibrio exovorus	290
+Bdellovibrio bacteriovorus	291
