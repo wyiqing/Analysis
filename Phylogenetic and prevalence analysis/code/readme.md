@@ -10,7 +10,7 @@
 
 - Source code and downloads: https://mafft.ddbj.nig.ac.jp/alignment/software/source.html
 - Version 7.525 source package: https://mafft.cbrc.jp/alignment/software/mafft-7.525-with-extensions-src.tgz
-- 
+  
 # trimAl — Alignment Trimming
 
 ## Software version
