@@ -29,6 +29,3 @@ This repository contains raw and processed 16S rRNA sequencing data, sequence da
 - Scripts and workflows for prevalence analysis
 - Prevalence statistics and related results
 
-## Data availability
-
-Scripts, analysis workflows, and newly generated data are available in this GitHub repository. Reference datasets are archived on Zenodo.
