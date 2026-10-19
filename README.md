@@ -23,10 +23,7 @@ This repository contains raw and processed 16S rRNA sequencing data, sequence da
 - Expression vectors and sequence files for expression
 - Representative NEP homologs and predicted structure
 
-### 5. Comparative Sequence Analysis
-- Sequence comparison data and analysis results
-
-### 6. ProGenomes-Based Prevalence Analysis
+### 5. ProGenomes-Based Prevalence Analysis
 - BLASTP analysis scripts and workflow
 - Local protein database
 - Scripts and workflows for prevalence analysis
