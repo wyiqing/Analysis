@@ -11,7 +11,7 @@ This repository contains raw and processed 16S rRNA sequencing data, sequence da
 - Processed data and analysis results
 
 ### 2. Phylogenetic and Prevalence Analysis
-- scripts
+- Scripts
 - Sequence datasets and processed data
 - Analysis workflows
 - Phylogenetic tree files
@@ -24,7 +24,8 @@ This repository contains raw and processed 16S rRNA sequencing data, sequence da
 - Sequence comparison data and analysis results
 
 ### 5. ProGenomes-Based Prevalence Analysis
-- Reference datasets obtained from ProGenomes
+- BLASTP analysis scripts and workflow
+- Local protein database
 - Scripts and workflows for prevalence analysis
 - Prevalence statistics and related results
 
