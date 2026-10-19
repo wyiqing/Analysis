@@ -1,23 +1,25 @@
-Identification and Conservation Analysis of mNEP Homologs
+# Identification and Conservation Analysis of mNEP Homologs
 
-Project Overview
-This analysis aimed to investigate the conservation of the catalytic residues of microbial neprilysin (mNEP) homologs in the genera Lactobacillus and Ligilactobacillus. A total of 1,236 high-quality mNEP homologs were retrieved from the ProGenomes v4 database, including 972 sequences from Lactobacillus and 264 sequences from Ligilactobacillus. Multiple-sequence alignment was performed to assess the conservation of the metalloendopeptidase catalytic tetrad associated with NEP peptidase function.
+## Project Overview
 
-Dataset
-Protein sequences were obtained from the ProGenomes v4 database.
+This analysis investigates the conservation of catalytic residues in microbial neprilysin (mNEP) homologs from the genera *Lactobacillus* and *Ligilactobacillus*. Multiple-sequence alignment was performed to assess the conservation of the metalloendopeptidase catalytic tetrad associated with NEP peptidase activity.
 
-Total mNEP homologs: 1,236
+## Dataset
 
-Lactobacillus: 972 sequences
+Protein sequences were retrieved from the ProGenomes v4 database.
 
-Ligilactobacillus: 264 sequences
+- **Total mNEP homologs:** 1,236
+- ***Lactobacillus*:** 972 sequences
+- ***Ligilactobacillus*:** 264 sequences
 
-Analysis Workflow
-Sequence retrieval: Retrieve high-quality mNEP homologous protein sequences from ProGenomes v4.
+## Analysis Workflow
 
-Sequence classification: Assign sequences to the corresponding genera, Lactobacillus and Ligilactobacillus.
+1. **Sequence retrieval:** Retrieve high-quality mNEP homologous protein sequences from ProGenomes v4.
+2. **Sequence classification:** Assign sequences to *Lactobacillus* and *Ligilactobacillus*.
+3. **Multiple-sequence alignment:** Align protein sequences to identify conserved amino acid residues.
+4. **Conservation analysis:** Assess the conservation of the catalytic tetrad associated with NEP peptidase activity.
 
-Multiple-sequence alignment: Align the retrieved protein sequences to identify conserved amino acid residues.
+## Data Availability
 
-Data Availability
-The mNEP homolog sequences used in this analysis were retrieved from the ProGenomes v4 database. The sequence dataset and corresponding analysis outputs are provided in this repository or through the associated supplementary materials.
+The mNEP homolog sequences were retrieved from the ProGenomes v4 database. The sequence datasets and corresponding analysis outputs are provided in this repository or in the supplementary materials.
+
