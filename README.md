@@ -16,14 +16,17 @@ This repository contains raw and processed 16S rRNA sequencing data, sequence da
 - Analysis workflows
 - Phylogenetic tree files
 
-### 3. source data
+### 3. ProPan dataset
+- Source data used for pan-genome analysis.
+
+### 4. source data
 - Expression vectors and sequence files for expression
 - Representative NEP homologs and predicted structure
 
-### 4. Comparative Sequence Analysis
+### 5. Comparative Sequence Analysis
 - Sequence comparison data and analysis results
 
-### 5. ProGenomes-Based Prevalence Analysis
+### 6. ProGenomes-Based Prevalence Analysis
 - BLASTP analysis scripts and workflow
 - Local protein database
 - Scripts and workflows for prevalence analysis
