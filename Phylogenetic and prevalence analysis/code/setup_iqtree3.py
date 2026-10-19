@@ -1,17 +1,16 @@
-
 import subprocess
 
-# Create a dedicated Conda environment and install IQ-TREE 3
+# Create a dedicated Conda environment and install IQ-TREE 2
 subprocess.run([
-    "conda", "create", "-n", "iqtree3_env",
+    "conda", "create", "-n", "iqtree2_env",
     "-c", "conda-forge", "-c", "bioconda",
     "iqtree", "-y"
 ], check=True)
 
 # Verify installation
 subprocess.run([
-    "conda", "run", "-n", "iqtree3_env",
-    "iqtree3", "--version"
+    "conda", "run", "-n", "iqtree2_env",
+    "iqtree2", "--version"
 ], check=True)
 
-print("IQ-TREE 3 environment setup completed.")
+print("IQ-TREE 2 environment setup completed.")
